@@ -1,6 +1,4 @@
 # RoutingProtocolForRouters
-Data Communication and Networking Project
-
 
 Technologies and Skills: Socket Programming, Python, Multithreading, TCP sockets
 
